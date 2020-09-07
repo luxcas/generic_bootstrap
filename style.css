@@ -68,3 +68,31 @@ body {
     -webkit-animation-name: slideIn;
     animation-name: slideIn;
   }
+
+  .bg_nav_first{
+    background: #c4c4c4 !important;
+  }
+  .nav_bg_second{
+    background: #527598 !important;
+  }
+
+  .nav_second .nav-link{ 
+    color: #ffffff !important;
+  }
+  .bg-line-yellow{
+    background: #f5c51d;
+    height: 4px;
+  }
+
+  .nav_bg_third{
+    background: #90a6bd !important;
+  }
+  .nav_bg_third .nav-link{ 
+    color: #ffffff !important;
+  }
+  .navbar{
+    padding: .2rem 1rem;
+  }
+  footer .card{
+    background-color:#6c757d ;
+  }
